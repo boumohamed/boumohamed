@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boumohamed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning kubernetes | docker | devops techs 
 - 📫 How to reach me mb.bouzri@gmail.com
 
 <!---
