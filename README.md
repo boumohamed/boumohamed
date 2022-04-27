@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boumohamed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning kubernetes | docker | devops techs | BigData
+- 🌱 I’m currently learning kubernetes | docker | devops techs | BigData | BI
 - 📫 How to reach me mb.bouzri@gmail.com
 
 <!---
@@ -8,12 +8,6 @@ boumohamed/boumohamed is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9558
-Fork on GitHub
-2268
 
 
 <h3 align="left">Connect with me:</h3>
