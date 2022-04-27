@@ -7,7 +7,7 @@
 boumohamed/boumohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boumohamed)](https://github.com/anuraghazra/github-readme-stats)
+[tokyonight]: https://github-readme-stats.vercel.app/api?username=boumohamed&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 
 
 <h3 align="left">Connect with me:</h3>
