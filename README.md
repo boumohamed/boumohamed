@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @boumohamed
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning kubernetes | docker | devops techs | BigData | BI
@@ -7,9 +8,9 @@
 boumohamed/boumohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/tX_T48A14BwAAAAd/khaby-really.gif">
 
-
-![Bouzri's GitHub stats](https://github-readme-stats.vercel.app/api?username=boumohamed&theme=algolia&show_icons=true)
+![Bouzri's GitHub stats](https://github-readme-stats.vercel.app/api?username=boumohamed&theme=algolia&show_icons=true&border_radius=15&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
