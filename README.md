@@ -12,13 +12,6 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Coding" width="200" src="https://c.tenor.com/tX_T48A14BwAAAAd/khaby-really.gif" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boumohamed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
